@@ -8,8 +8,8 @@ The purpose of this project is to visually show the differences between the magn
 Basil and Sadhana like how we created the earthquake map with two different maps and the earthquake overlay. Now, Basil and Sadhana wanted to see the earthquake data in relation to the tectonic plates’ location on the earth, and they wanted to see all the earthquakes with a magnitude greater than 4.5 on the map, and to see the data on a third map.
 
 
-## Street MAp View
+## Street Map View
 
-![image](https://user-images.githubusercontent.com/78935551/120129481-0c427500-c192-11eb-9e14-3f87218ab6be.png)
+![image](https://user-images.githubusercontent.com/78935551/120129590-427ff480-c192-11eb-982b-65f370097d44.png)
 
 
