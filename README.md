@@ -12,4 +12,9 @@ Basil and Sadhana like how we created the earthquake map with two different maps
 
 ![image](https://user-images.githubusercontent.com/78935551/120129755-8b37ad80-c192-11eb-999e-9215ae9b9253.png)
 
+## Satellite Map View
+
+![image](https://user-images.githubusercontent.com/78935551/120129820-b4583e00-c192-11eb-964f-7fe36643cfb2.png)
+
+
 
