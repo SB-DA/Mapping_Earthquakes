@@ -10,6 +10,6 @@ Basil and Sadhana like how we created the earthquake map with two different maps
 
 ## Street Map View
 
-![image](https://user-images.githubusercontent.com/78935551/120129590-427ff480-c192-11eb-982b-65f370097d44.png)
+![image](https://user-images.githubusercontent.com/78935551/120129711-6c391b80-c192-11eb-9274-98d487400e96.png)
 
 
