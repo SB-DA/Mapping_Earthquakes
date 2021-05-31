@@ -10,7 +10,7 @@ Basil and Sadhana like how we created the earthquake map with two different maps
 
 ## Street Map View
 
-![image](https://user-images.githubusercontent.com/78935551/120129755-8b37ad80-c192-11eb-999e-9215ae9b9253.png)
+![image](https://user-images.githubusercontent.com/78935551/120130492-54629700-c194-11eb-8a4a-5d8f7385bf97.png)
 
 ## Satellite Map View
 
